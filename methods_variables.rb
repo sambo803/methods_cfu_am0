@@ -26,6 +26,7 @@ p last_login.strip!
 #  you have not yet used and call them on one of the variables above. Between reading the documentation
 # and reading the output from calling the methods, make sense of what they do.
   # Write the methods out on the lines below, with an explanation in your own words of how they work.
+  
 p user_name.end_with? "1am"
 # This method of String returns true if end of string is same.
 
